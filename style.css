@@ -1,0 +1,107 @@
+
+.name h2{
+    color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+    text-emphasis-color: red;
+    padding: top 5px; 
+    font-size: 35px; 
+    scrollbar-3dlight-color: lawngreen;
+    scrollbar-color: red;
+    scroll-behavior: initial;
+
+}
+.name h1{
+    text-align: center; 
+    background-color: cyan;
+    border: chartreuse; 
+    text-shadow: darkblue; 
+    padding: 20px;
+    lighting-color: sandybrown; 
+
+}
+.log{
+    text-align: center;
+    background-color: powderblue;
+    color:red;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 20px; 
+    width: 170px;
+    height: auto; 
+    align-items: center; 
+    font-size: 20px;
+} 
+
+
+
+.body {
+    
+    overflow: hidden;
+}
+.account{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.log-in{
+   background: #fff; 
+   padding: 24px;
+   border-radius: 4px;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: center;
+   font-size: 20px;  
+   color: red;
+   border: rgb(0, 255, 64);
+}
+.submit{
+    width: 30%;
+    background: #fa690f;
+    padding: 8px;
+    margin: 6px;
+    border-radius: 2px;
+    border: none;
+    color: white;
+}
+input{
+    background-origin: padding-box;
+    border-bottom: 1px solid #ccc;
+    padding: 8px; 
+    align-self:center;
+} 
+.reg{ 
+    
+    
+    padding: 2px;
+    margin:2px;
+    border:2px;
+    
+    color:yellowgreen; 
+    font-size: 30px;
+
+} 
+.h1 h1{
+    background: #fff; 
+   padding: 24px;
+   border-radius: 4px;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: center;
+   font-size: 40px;
+} 
+.raghu{
+    padding: 10px; 
+    color: rgb(236, 16, 108); 
+    background-color: rgb(240, 255, 251);
+    text-align: center;
+    align-content: center;  
+    width: 500px; 
+    height: auto;        
+
+    margin-top: 150px;
+
+} 
+
